@@ -1,0 +1,41 @@
+C:\Users\Luz\source\repos\padel_app_21\padel_app_21\bin\Debug\netcoreapp3.1\padel_app_21.exe
+C:\Users\Luz\source\repos\padel_app_21\padel_app_21\bin\Debug\netcoreapp3.1\padel_app_21.deps.json
+C:\Users\Luz\source\repos\padel_app_21\padel_app_21\bin\Debug\netcoreapp3.1\padel_app_21.runtimeconfig.json
+C:\Users\Luz\source\repos\padel_app_21\padel_app_21\bin\Debug\netcoreapp3.1\padel_app_21.runtimeconfig.dev.json
+C:\Users\Luz\source\repos\padel_app_21\padel_app_21\bin\Debug\netcoreapp3.1\padel_app_21.dll
+C:\Users\Luz\source\repos\padel_app_21\padel_app_21\bin\Debug\netcoreapp3.1\padel_app_21.pdb
+C:\Users\Luz\source\repos\padel_app_21\padel_app_21\obj\Debug\netcoreapp3.1\padel_app_21.csprojAssemblyReference.cache
+C:\Users\Luz\source\repos\padel_app_21\padel_app_21\obj\Debug\netcoreapp3.1\padel_app_21.Form1.resources
+C:\Users\Luz\source\repos\padel_app_21\padel_app_21\obj\Debug\netcoreapp3.1\padel_app_21.Properties.Resources.resources
+C:\Users\Luz\source\repos\padel_app_21\padel_app_21\obj\Debug\netcoreapp3.1\padel_app_21.csproj.GenerateResource.cache
+C:\Users\Luz\source\repos\padel_app_21\padel_app_21\obj\Debug\netcoreapp3.1\padel_app_21.AssemblyInfoInputs.cache
+C:\Users\Luz\source\repos\padel_app_21\padel_app_21\obj\Debug\netcoreapp3.1\padel_app_21.AssemblyInfo.cs
+C:\Users\Luz\source\repos\padel_app_21\padel_app_21\obj\Debug\netcoreapp3.1\padel_app_21.csproj.CoreCompileInputs.cache
+C:\Users\Luz\source\repos\padel_app_21\padel_app_21\obj\Debug\netcoreapp3.1\padel_app_21.dll
+C:\Users\Luz\source\repos\padel_app_21\padel_app_21\obj\Debug\netcoreapp3.1\padel_app_21.pdb
+C:\Users\Luz\source\repos\padel_app_21\padel_app_21\obj\Debug\netcoreapp3.1\padel_app_21.genruntimeconfig.cache
+E:\INGENIERÍA EN SISTEMAS\2° AÑO\Paradigma de Programación\2021\Trabajo Final\padel_app_21\padel_app_21\bin\Debug\netcoreapp3.1\padel_app_21.exe
+E:\INGENIERÍA EN SISTEMAS\2° AÑO\Paradigma de Programación\2021\Trabajo Final\padel_app_21\padel_app_21\bin\Debug\netcoreapp3.1\padel_app_21.deps.json
+E:\INGENIERÍA EN SISTEMAS\2° AÑO\Paradigma de Programación\2021\Trabajo Final\padel_app_21\padel_app_21\bin\Debug\netcoreapp3.1\padel_app_21.runtimeconfig.json
+E:\INGENIERÍA EN SISTEMAS\2° AÑO\Paradigma de Programación\2021\Trabajo Final\padel_app_21\padel_app_21\bin\Debug\netcoreapp3.1\padel_app_21.runtimeconfig.dev.json
+E:\INGENIERÍA EN SISTEMAS\2° AÑO\Paradigma de Programación\2021\Trabajo Final\padel_app_21\padel_app_21\bin\Debug\netcoreapp3.1\padel_app_21.dll
+E:\INGENIERÍA EN SISTEMAS\2° AÑO\Paradigma de Programación\2021\Trabajo Final\padel_app_21\padel_app_21\bin\Debug\netcoreapp3.1\padel_app_21.pdb
+E:\INGENIERÍA EN SISTEMAS\2° AÑO\Paradigma de Programación\2021\Trabajo Final\padel_app_21\padel_app_21\obj\Debug\netcoreapp3.1\padel_app_21.csproj.AssemblyReference.cache
+E:\INGENIERÍA EN SISTEMAS\2° AÑO\Paradigma de Programación\2021\Trabajo Final\padel_app_21\padel_app_21\obj\Debug\netcoreapp3.1\padel_app_21.Form1.resources
+E:\INGENIERÍA EN SISTEMAS\2° AÑO\Paradigma de Programación\2021\Trabajo Final\padel_app_21\padel_app_21\obj\Debug\netcoreapp3.1\padel_app_21.Properties.Resources.resources
+E:\INGENIERÍA EN SISTEMAS\2° AÑO\Paradigma de Programación\2021\Trabajo Final\padel_app_21\padel_app_21\obj\Debug\netcoreapp3.1\padel_app_21.csproj.GenerateResource.cache
+E:\INGENIERÍA EN SISTEMAS\2° AÑO\Paradigma de Programación\2021\Trabajo Final\padel_app_21\padel_app_21\obj\Debug\netcoreapp3.1\padel_app_21.GeneratedMSBuildEditorConfig.editorconfig
+E:\INGENIERÍA EN SISTEMAS\2° AÑO\Paradigma de Programación\2021\Trabajo Final\padel_app_21\padel_app_21\obj\Debug\netcoreapp3.1\padel_app_21.AssemblyInfoInputs.cache
+E:\INGENIERÍA EN SISTEMAS\2° AÑO\Paradigma de Programación\2021\Trabajo Final\padel_app_21\padel_app_21\obj\Debug\netcoreapp3.1\padel_app_21.AssemblyInfo.cs
+E:\INGENIERÍA EN SISTEMAS\2° AÑO\Paradigma de Programación\2021\Trabajo Final\padel_app_21\padel_app_21\obj\Debug\netcoreapp3.1\padel_app_21.csproj.CoreCompileInputs.cache
+E:\INGENIERÍA EN SISTEMAS\2° AÑO\Paradigma de Programación\2021\Trabajo Final\padel_app_21\padel_app_21\obj\Debug\netcoreapp3.1\padel_app_21.dll
+E:\INGENIERÍA EN SISTEMAS\2° AÑO\Paradigma de Programación\2021\Trabajo Final\padel_app_21\padel_app_21\obj\Debug\netcoreapp3.1\padel_app_21.pdb
+E:\INGENIERÍA EN SISTEMAS\2° AÑO\Paradigma de Programación\2021\Trabajo Final\padel_app_21\padel_app_21\obj\Debug\netcoreapp3.1\padel_app_21.genruntimeconfig.cache
+E:\INGENIERÍA EN SISTEMAS\2° AÑO\Paradigma de Programación\2021\Trabajo Final\padel_app_21\padel_app_21\obj\Debug\netcoreapp3.1\padel_app_21.FormJugadores.resources
+E:\INGENIERÍA EN SISTEMAS\2° AÑO\Paradigma de Programación\2021\Trabajo Final\padel_app_21\padel_app_21\obj\Debug\netcoreapp3.1\padel_app_21.FormTorneos.resources
+E:\INGENIERÍA EN SISTEMAS\2° AÑO\Paradigma de Programación\2021\Trabajo Final\padel_app_21\padel_app_21\obj\Debug\netcoreapp3.1\padel_app_21.FormInscriptos.resources
+E:\INGENIERÍA EN SISTEMAS\2° AÑO\Paradigma de Programación\2021\Trabajo Final\padel_app_21\padel_app_21\obj\Debug\netcoreapp3.1\padel_app_21.FormLogo.resources
+E:\INGENIERÍA EN SISTEMAS\2° AÑO\Paradigma de Programación\2021\Trabajo Final\padel_app_21\padel_app_21\obj\Debug\netcoreapp3.1\padel_app_21.CrearJugador.resources
+E:\INGENIERÍA EN SISTEMAS\2° AÑO\Paradigma de Programación\2021\Trabajo Final\padel_app_21\padel_app_21\obj\Debug\netcoreapp3.1\padel_app_21.CrearTorneo.resources
+E:\INGENIERÍA EN SISTEMAS\2° AÑO\Paradigma de Programación\2021\Trabajo Final\padel_app_21\padel_app_21\obj\Debug\netcoreapp3.1\padel_app_21.Inscribir.resources
+E:\INGENIERÍA EN SISTEMAS\2° AÑO\Paradigma de Programación\2021\Trabajo Final\padel_app_21\padel_app_21\obj\Debug\netcoreapp3.1\padel_app_21.Anuncio.resources

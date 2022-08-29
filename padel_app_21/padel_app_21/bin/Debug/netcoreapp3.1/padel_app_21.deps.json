@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "padel_app_21/1.0.0": {
+        "runtime": {
+          "padel_app_21.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "padel_app_21/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
